@@ -1,0 +1,24 @@
+{
+  "name": "mailjs",
+  "version": "1.0.0",
+  "description": "Library for temp-mail provider mail.tm",
+  "main": "Mailjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demonsthere/Mailjs.git"
+  },
+  "keywords": [
+    "temp-mail",
+    "mail.tm",
+    "10minutemail"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demonsthere/Mailjs/issues"
+  },
+  "homepage": "https://github.com/Demonsthere/Mailjs#readme"
+}
