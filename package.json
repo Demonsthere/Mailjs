@@ -1,8 +1,8 @@
 {
   "name": "mailjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Library for temp-mail provider mail.tm",
-  "main": "Mailjs.js",
+  "main": "NodeJS/Mailjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/Demonsthere/Mailjs.git"
   },
   "keywords": [
-    "temp-mail",
     "mail.tm",
+    "temp-mail",
     "10minutemail"
   ],
   "author": "",
